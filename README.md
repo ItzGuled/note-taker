@@ -7,7 +7,7 @@ This challenge really assisted me in growing my back end knowledge. Specifically
 This challenge was interesting because there was starter code and I had to understand it before I could implement the backend with my own code. One task was actually getting the notes to save within the front end when it was only loading in my database file. Seeing the conclusion to fix this was pretty eye opening and furthered my understanding of routes. Another issue was modularizing the code enough for readability without breaking anything and I had that happen a few times.
 
 ## Screenshot
-![ScreenShot](images/cap.PNG)
+![ScreenShot](assets/images/cap.PNG)
 
 ## Link
 https://itzguled.github.io/weather-dashboard/
