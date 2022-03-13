@@ -1,4 +1,4 @@
-# Note Taker Starter Code
+# Note Taker
 
 ## The Motivation
 This challenge really assisted me in growing my back end knowledge. Specifically, I got better at working with routes and getting info to get received from the frontend and going into the backend into my database file.
