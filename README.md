@@ -10,4 +10,4 @@ This challenge was interesting because there was starter code and I had to under
 ![ScreenShot](assets/images/cap.PNG)
 
 ## Link
-https://itzguled.github.io/weather-dashboard/
+https://sheltered-reaches-96517.herokuapp.com/
