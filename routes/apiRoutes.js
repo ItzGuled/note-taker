@@ -34,13 +34,4 @@ router.post("/notes", (req, res) => {
   });
 });
 
-router.delete("/notes/:id", (req, res) => {
-  const body = req.body;
-  fs.readFile(path.join(__dirname, "../db/db.json"), (err, data) => {
-    if (err) {
-      throw err;
-    }
-  });
-});
-
 module.exports = router;
